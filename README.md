@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - Hi, I’m amaljith
 - introvert-depressed-highschooler at morning and Gamer at night 
 - I’m interested in Game devolpment and Learning new Programming languages
